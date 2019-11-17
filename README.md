@@ -10,11 +10,12 @@ structured way.
 It is a direct translation of the PHP flavour and not in working shape.
 
 
-## Building
-
--?-
-
-## Issue Reporting
+## Feedback
 
 Please use the [issue reporting facility at github](https://github.com/mgoellnitz/coconat.script/issues) 
 to get in touch.
+
+
+## Building
+
+-?-
